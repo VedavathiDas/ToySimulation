@@ -1,0 +1,7 @@
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\bin\Release\ToyRobot.exe.config
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\bin\Release\ToyRobot.exe
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\bin\Release\ToyRobot.pdb
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\obj\Release\ToyRobot.csproj.AssemblyReference.cache
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\obj\Release\ToyRobot.csproj.CoreCompileInputs.cache
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\obj\Release\ToyRobot.exe
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobot\obj\Release\ToyRobot.pdb

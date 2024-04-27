@@ -1,0 +1,11 @@
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\BasicCommand.txt
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\ToyRobotTest.dll
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\ToyRobotTest.pdb
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\ToyRobot.exe
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\ToyRobot.pdb
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\bin\Release\ToyRobot.exe.config
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\obj\Release\ToyRobotTest.csproj.AssemblyReference.cache
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\obj\Release\ToyRobotTest.csproj.CoreCompileInputs.cache
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\obj\Release\ToyRobot.CE2ACEBD.Up2Date
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\obj\Release\ToyRobotTest.dll
+E:\Projects\ToyRobotSimulation\toy-robot-csharp-master\ToyRobotTest\obj\Release\ToyRobotTest.pdb
